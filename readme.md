@@ -3,7 +3,7 @@ title: "live server"
 decription: "In this server write in java code for good understaindin . and it 's give best knowleage again. I hope help this content. Thanks So must :) "
 ---
 
-### Liver server from we can access from any where
+### Liver server And  We can access from any where.
 
 ```java
 import com.sun.net.httpserver.HttpServer;
